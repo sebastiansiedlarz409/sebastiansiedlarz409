@@ -8,9 +8,9 @@
 
 <hr>
 
-![MyGitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiansiedlarz409&show_icons=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)
+![MyGitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiansiedlarz409&show_icons=true&theme=codeSTACKr)
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiansiedlarz409&show_icons=true&langs_count=30&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiansiedlarz409&show_icons=true&langs_count=30&theme=codeSTACKr)
 
 <hr>
 

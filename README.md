@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sebastian Siedlarz :sunglasses: :sunglasses: :sunglasses:</h1>
-<h3 align="left">A passionate low level programming</h3>
+<h3 align="left">I'm interested in low-level programming</h3>
 
 <p align='left'>
   <a href="https://linkedin.com/in/sebastian-siedlarz-833090156"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

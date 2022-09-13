@@ -8,7 +8,7 @@
 </p>
 
 ```javascript
-const anmol = {
+const me = {
     pronouns: "He" | "Him",
     code: ["Assembly <3", "C", "C++", "C#", "Python", "JavaScript"],
     technologies: {

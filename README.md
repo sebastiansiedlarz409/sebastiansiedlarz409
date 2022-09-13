@@ -9,7 +9,7 @@
 
 ```javascript
 const me = {
-    pronouns: "He" | "Him",
+    origin: "Poland",
     code: ["Assembly <3", "C", "C++", "C#", "Python", "JavaScript"],
     technologies: {
         backEnd: ["ASP.NET", "Django"],

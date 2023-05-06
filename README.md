@@ -12,14 +12,12 @@ const me = {
     origin: "Poland",
     code: ["Assembly <3", "C", "C++", "C#", "Python", "JavaScript"],
     technologies: {
-        backEnd: ["ASP.NET", "Django"],
-        frontEnd: ["React"],
-        mobileApp: ["Xamarin", "React", "Flutter"],
-        databases: ["MSSql", "MySql", "sqlite"],
+        webApp: ["ASP.NET", "Django", "React"],
+        mobileApp: ["Xamarin", "React Native", "Flutter"],
+        databases: ["MSSql", "MySql", "SQLite"],
         embedded: ["Arduino", "STM32", "Raspberry PI", "FPGA"],
         misc: ["Linux", "WinAPI", "Reverse Engineering", "Unit testing"],
     },
-    architecture: ["MVC/MVVM...", "SPA"],
     currentFocus: "Some weird embedded stuff",
     funFact: "C/C++ Char is numeric type. Its only interpreted as character by some functions implicitly."
 };

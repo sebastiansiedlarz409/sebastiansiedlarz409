@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sebastian Siedlarz</h1>
 <h4 align="left">:thumbsup: I'm mainly interested in low-level programming (embedded or reverse engineering)</h4>
-<h4 align="left">:see_no_evil: I happen to be prototyping on an Arduino etc one day and writing some modules in PHP the next day</h4>
+<h4 align="left">:see_no_evil: Sometimes I write code in C# or JS, and sometimes I poke around in the world of microcontrollers or reverse engineering.</h4>
 <h4 align="left">:handbag: Full Stack Developer at <a href="https://www.vitberg.com">Vitberg</a></h4>
 
 <p align='left'>
@@ -26,8 +26,5 @@ const me = {
 ```
 
 <h1></h1>
-
-<h4 align="left">How to find good programmer?</h4>
-<h5 align="left">To be a good programmer you don't need to know the language perfectly. You need to be able to find a solution to a problem using what you know or using documentation.</h5>
 
 <h4 align="left">Code and have fun :relaxed:</h4>

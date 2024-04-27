@@ -1,6 +1,4 @@
 <h1 align="left">Hi 👋, I'm Sebastian Siedlarz</h1>
-<h4 align="left">:thumbsup: I'm mainly interested in low-level programming (embedded or reverse engineering)</h4>
-<h4 align="left">:see_no_evil: Sometimes I write code in C# or JS, and sometimes I poke around in the world of microcontrollers or reverse engineering.</h4>
 <h4 align="left">:handbag: Full Stack Developer at <a href="https://www.vitberg.com">Vitberg</a></h4>
 
 <p align='left'>
@@ -13,10 +11,10 @@ const me = {
     origin: "Poland",
     code: ["x86/ARM assembly", "C", "C++", "C#", "Python", "JavaScript", "PHP"],
     technologies: {
-        desktopApp: ["WPF"],
+        desktopApp: ["WPF", "Windows Forms"],
         webApp: ["ASP.NET", "React"],
         mobileApp: ["Xamarin", "React Native", "Flutter"],
-        databases: ["MSSql", "MYSql", "SQLite"],
+        databases: ["MSSql", "MySql", "SQLite"],
         embedded: ["Arduino", "STM32", "Raspberry PI", "FPGA"],
         misc: ["Linux", "Reverse Engineering", "Unit testing"],
     },
